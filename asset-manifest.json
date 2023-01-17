@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/prantoshb.github.io/React-To-Do-List/static/css/main.3112d55f.css",
-    "main.js": "/prantoshb.github.io/React-To-Do-List/static/js/main.e9dd6b2a.js",
-    "index.html": "/prantoshb.github.io/React-To-Do-List/index.html",
-    "main.3112d55f.css.map": "/prantoshb.github.io/React-To-Do-List/static/css/main.3112d55f.css.map",
-    "main.e9dd6b2a.js.map": "/prantoshb.github.io/React-To-Do-List/static/js/main.e9dd6b2a.js.map"
+    "main.css": "/React-To-Do-List/static/css/main.3112d55f.css",
+    "main.js": "/React-To-Do-List/static/js/main.e9dd6b2a.js",
+    "index.html": "/React-To-Do-List/index.html",
+    "main.3112d55f.css.map": "/React-To-Do-List/static/css/main.3112d55f.css.map",
+    "main.e9dd6b2a.js.map": "/React-To-Do-List/static/js/main.e9dd6b2a.js.map"
   },
   "entrypoints": [
     "static/css/main.3112d55f.css",
